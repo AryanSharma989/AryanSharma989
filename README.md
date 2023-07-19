@@ -1,7 +1,7 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 
-<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aryan  Sharma</h1>
 <h3 align="center">I'm a dedicated computer science student with a passion for mastering the art of Data Structures and Algorithms and creating captivating Android applications.</h3>
 
 
