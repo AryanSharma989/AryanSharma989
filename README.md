@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryan  Sharma</h1>
-<h3 align="center">I'm a dedicated computer science student with a passion for mastering the art of Data Structures and Algorithms and creating captivating Android applications.</h3>
+<h3 align="center">I’m a dedicated Computer Science graduate with a strong interest in Data Analytics and Data-Driven Problem Solving.
+I enjoy transforming raw data into meaningful insights using analytics, visualization, and structured thinking.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma989&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma989" /> </p>
@@ -11,11 +12,12 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **DSA, flutter, kotlin**
+- 💬 Ask me about **SQL, Python (Pandas, NumPy), Excel, Power BI, Data Cleaning & EDA,
+R , PySpark (basics) and foundational cloud concepts (AWS)**
 
 - 📫 How to reach me **aryanhere.456@gmail.com**
 
-- ⚡ Fun fact **I am a funny**
+- ⚡ Fun fact **I enjoy travelling, playing sports, and music, and I have a strong interest in sketching.**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
