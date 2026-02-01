@@ -1,4 +1,13 @@
-![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+<p align="center">
+  <img src="assets/data-analyst-banner.png" alt="Data Analyst Banner" />
+</p>
+
+<h2 align="center">Aspiring Data Analyst</h2>
+
+<p align="center">
+  SQL • Python • Power BI • Excel
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Aryan  Sharma</h1>
