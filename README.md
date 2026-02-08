@@ -19,7 +19,7 @@ I enjoy transforming raw data into meaningful insights using analytics, visualiz
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansharma989" alt="aryansharma989" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **SQL, Python (Pandas, NumPy), Excel, Power BI, Data Cleaning & EDA,
 R , PySpark (basics) and foundational cloud concepts (AWS)**
